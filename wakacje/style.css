@@ -1,0 +1,116 @@
+﻿body
+{
+	background-image: url(zdj/tlo.jpg);
+
+}
+
+#strona
+{
+	width: 1000px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color: #737373;
+	background: rgba(115, 115, 115, 0.8);
+}
+
+#logo
+{
+	letter-spacing: 6px;
+	color: white;
+	font-size: 70px;
+	text-align: center;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	background: rgba(115, 115, 115, 0.9);
+}
+
+
+#czas
+{
+	text-align: center;
+	font-size: 58px;
+	color: #b70000;
+	letter-spacing: 2px;
+	padding-bottom: 20px;
+	padding-top: 30px;
+	
+}
+
+#panel
+{
+	text-align: center;
+	font-size: 26px;
+	padding-bottom: 20px;
+	
+}
+
+.panel
+{
+	padding-bottom: 5px;
+	
+}
+
+#procentowy
+{
+	
+	text-align: center;
+	font-size: 35px;
+	padding-bottom: 20px;
+}
+
+#stopka
+{
+	text-align: justify;
+	background-color: black;
+	color: white;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	height: 50px;
+}
+
+#tekst
+{
+	float: left;
+	font-size: 18px;
+	padding: 15px;
+	border-right: 2px dotted #444444;
+	letter-spacing: 2px;
+}
+
+#odwiedziny
+{
+	float: left;
+	font-size: 20px;
+	padding: 15px;
+	height: 20px;
+	padding-left: 20px;
+}
+
+#online
+{
+	float: left;
+	font-size: 20px;
+	padding: 15px;
+	height: 20px;
+}
+
+
+#godzina
+{
+	float: right;
+	font-size: 18px;
+	padding: 15px;
+	text-align:left;
+	border-left: 2px dotted #444444;
+	height: 20px;
+	
+}
+
+h9
+{
+	
+	color:red;
+}
+
+
+
